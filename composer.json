@@ -24,7 +24,7 @@
 
         "sylius/resource": "^0.19",
         "sylius/registry": "^0.19",
-        "symfony/intl": "^2.8"
+        "symfony/intl": "^23.0"
     },
     "require-dev": {
         "phpspec/phpspec": "^2.4"
